@@ -1,5 +1,5 @@
 {
-    "name": "phpforce/common",
+    "name": "antoineveldhoven/common",
     "type": "library",
     "description": "Common library for the PhpForce Salesforce libraries",
     "keywords": [  "salesforce", "crm", "soap", "force.com", "web services" ],
@@ -11,6 +11,7 @@
             "homepage": "http://ddeboer.nl"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "symfony/event-dispatcher": ">=2.1"
